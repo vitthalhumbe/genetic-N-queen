@@ -16,4 +16,4 @@ This project implements the Genetic Algorithm (Evolutionary Algorithm) to solve 
 
 
 ## the Average fitness per population and best solution's fitness per genration plot :
-![alt img]()
+![alt img](https://github.com/vitthalhumbe/genetic-N-queen/blob/6fd64054aa57368eadb78cd4143658a1c8e43028/output_plot.png)
